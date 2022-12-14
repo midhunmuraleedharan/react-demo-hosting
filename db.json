@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "twoooo",
+      "body": "this is the post body",
+      "publishedAt": "2022-11-15"
+    },
+    {
+      "id": "3",
+      "title": "three",
+      "body": "this is the post body",
+      "publishedAt": "2022-11-16"
+    },
+    {
+      "title": "sefrgh",
+      "body": "adsd",
+      "publishedAt": "2022-11-02",
+      "id": "SB7JUHJ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "midhun",
+      "email": "midhun@gmail.com"
+    },
+    {
+      "name": "nithin",
+      "email": "nithin@gmail.com",
+      "id": "kv9ubkJ"
+    },
+    {
+      "name": "gireesh",
+      "email": "gireesh@gmail.com",
+      "id": "ObTi-Hy"
+    }
+  ]
+}
